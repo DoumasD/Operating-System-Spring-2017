@@ -10,7 +10,7 @@ The bank.c file was given and I modified it.
 The bank file is an executable file that I created. Please recompile the bank.c file and run it.
 
 # Instruction:
-1.) Open Linux, or any other plateform that you may use to run c programs.
+1.) Open Linux.
 2.) Download all the files.
 3.) Compile and link each part.  gcc name-of-c-file -o name-of-exe
 4.) Run the executable.

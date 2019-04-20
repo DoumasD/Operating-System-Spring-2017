@@ -11,7 +11,7 @@ One is with semaphores, "Task6_semaphore.c".
 The latter is with threads, "Task6_pthread.c".
 
 # Instruction:
-1.) Open Linux, or any other platform that you may use to run c programs.
+1.) Open Linux.
 2.) Download all the files.
 3.) Compile and link each part.  gcc name-of-c-file -o name-of-exe
 4.) Run the executable.

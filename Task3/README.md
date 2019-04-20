@@ -59,7 +59,7 @@ Prcs_P2 that accomplishes the procedure described in Step 2.
 
 # Instruction:
 
-1.) Open Linux, or any other plateform that you may use to run c programs.
+1.) Open Linux.
 2.) Download all the files.
 3.) Compile and link each part.  gcc name-of-c-file -o name-of-exe
 4.) Run the executable. 
